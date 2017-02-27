@@ -1,0 +1,5 @@
+C:\Users\Developer\documents\visual studio 2010\Projects\Chat\Chat\bin\Release\Chat.exe
+C:\Users\Developer\documents\visual studio 2010\Projects\Chat\Chat\bin\Release\Chat.pdb
+C:\Users\Developer\documents\visual studio 2010\Projects\Chat\Chat\obj\x86\Release\Chat.exe
+C:\Users\Developer\documents\visual studio 2010\Projects\Chat\Chat\obj\x86\Release\Chat.pdb
+C:\Users\Developer\documents\visual studio 2010\Projects\Chat\Chat\bin\Release\Chat.exe.config
